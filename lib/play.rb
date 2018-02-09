@@ -45,3 +45,4 @@ play(board)
 until counter = 9
   display_board
 end
+end
